@@ -66,7 +66,7 @@ Product {
 ### Current Approach
 Using the [tooljet](github.com/tooljet/tooljet) to build the frontend. Tooljet is a low-code platform for building web applications. It is built using [react](https://reactjs.org/) and [typescript](https://www.typescriptlang.org/). It is a very easy to use platform and can be used to build web applications very quickly. It is also very easy to integrate with other services like databases, APIs, etc. It is also very easy to deploy the application. It can be deployed using the tooljet-cli.
 
-- [click here for the live demo](https://app.tooljet.com/applications/Cheapify)
+- [click here for the live demo](https://app.tooljet.com/applications/Cheapify1)
 #### Cons:
 1. Unable to scale up
 2. Unable to integrate with other services
@@ -81,7 +81,8 @@ using flask to build the frontend. Flask is a micro web framework written in pyt
 2. Use the [UPCitemdb](https://www.upcitemdb.com/) API to get the UPC code of the product.
 
 3. Store time stamps to get the price history of the product. this helps in historic monitoring of the product price.
-
+## License
+[Apache License 2.0](apache.org/licenses/LICENSE-2.0)
 ## Contributors
 1. [Mashhood Alam](www.github.com/MASHOD0)
 1. [M Sai Santosh](https://github.com/SaiSantosh2209)
